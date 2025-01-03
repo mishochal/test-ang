@@ -1,7 +1,7 @@
 {
   "routes": [
     "/",
-    "/cart",
-    "/home"
+    "cart",
+    "home"
   ]
 }
